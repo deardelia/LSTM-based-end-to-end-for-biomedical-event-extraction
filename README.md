@@ -1,6 +1,7 @@
 # LSTM-Based End-to-End Framework for Biomedical Event Extraction
 
 (This work have been published in IEEE/ACM, TCBB, 2019)
+https://www.ncbi.nlm.nih.gov/pubmed/31095491
 ## Overview
 
 Biomedical event extraction plays an important role in the extraction of biological information from large-scale scientific
